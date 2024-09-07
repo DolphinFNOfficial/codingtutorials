@@ -1,0 +1,18 @@
+button {
+    align-items: center;
+    border-top: cyan;
+    border-left: maroon;
+    border-right: maroon;
+    border-bottom: cyan;
+    border-radius: 15px;
+    border-top-width: 4px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 4px;
+    display: block;
+    margin: auto;
+    font: bold;
+    font-family: Comic Sans MS;
+    width: 100px;
+    height: 40px;
+}
